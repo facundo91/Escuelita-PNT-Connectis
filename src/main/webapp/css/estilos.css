@@ -1,0 +1,21 @@
+.encabezado {
+    color: #398439;
+}
+
+.titulosTodos {
+    font-family: monospace;
+    font-style: initial;
+    font-size: 20;
+}
+
+.table-resultado-busqueda thead {
+    background-color: gainsboro; 
+}
+
+.table-resultado-todos thead {
+    background-color: greenyellow;
+}
+
+.table-resultado-todos tbody tr:nth-child(2n) {
+    background-color: #ccc;
+}
